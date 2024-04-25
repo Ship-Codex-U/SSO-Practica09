@@ -1,5 +1,5 @@
 from PySide6.QtWidgets import QMainWindow, QApplication
-from mainwindow import MainWindow
+from file_class.mainwindow import MainWindow
 import sys
 
 #Aplicacion de Qt
